@@ -1,0 +1,6 @@
+baseURL = "https://villacisjulio.github.io/static_website/"
+#baseURL = "https://localhost/"
+languageCode = "en-us"
+title = "MSIG XXI - My New Hugo Site"
+theme = "ananke"
+publishDir = "docs"

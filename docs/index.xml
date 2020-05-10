@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MSIG XXI - My New Hugo Site</title>
+    <link>https://villacisjulio.github.io/static_website/</link>
+    <description>Recent content on MSIG XXI - My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 09:14:39 -0500</lastBuildDate>
+    
+	<atom:link href="https://villacisjulio.github.io/static_website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://villacisjulio.github.io/static_website/posts/my-first-post/</link>
+      <pubDate>Sun, 10 May 2020 09:14:39 -0500</pubDate>
+      
+      <guid>https://villacisjulio.github.io/static_website/posts/my-first-post/</guid>
+      <description>Preuba de funcionamiento del post Siempre trato de hacer el trabajo lo mas rapido posible</description>
+    </item>
+    
+  </channel>
+</rss>
