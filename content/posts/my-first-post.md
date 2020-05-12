@@ -25,3 +25,12 @@ De todos modos, hoy podemos ver un resurgir de estas políticas de empresas punto
 
 Nueva prueba de cambios
 Veamos que sucede ya tengo que irme a dormir
+
+
+---
+title: "My Third Post"
+date: 2020-05-12T09:39:39-05:00
+draft: true
+---
+
+El sitio git es muy interesante, pero nos hace falta un poco mas de conocimiento sobre como realizar el trabajo

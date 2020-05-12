@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MSIG XXI - My New Hugo Site</title>
-    <link>https://villacisjulio.github.io/static_website/posts/</link>
+    <link>https://Tecnologia-Web-Grupo-1.github.io/static_website/posts/</link>
     <description>Recent content in Posts on MSIG XXI - My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2020 09:14:39 -0500</lastBuildDate>
     
-	<atom:link href="https://villacisjulio.github.io/static_website/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Tecnologia-Web-Grupo-1.github.io/static_website/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://villacisjulio.github.io/static_website/posts/my-first-post/</link>
+      <link>https://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</link>
       <pubDate>Sun, 10 May 2020 09:14:39 -0500</pubDate>
       
-      <guid>https://villacisjulio.github.io/static_website/posts/my-first-post/</guid>
+      <guid>https://Tecnologia-Web-Grupo-1.github.io/static_website/posts/my-first-post/</guid>
       <description>Preuba de funcionamiento del post Siempre trato de hacer el trabajo lo mas rapido posible
  title: &amp;ldquo;My Second Post&amp;rdquo; date: 2020-05-11T23:06:39-05:00 draft: true Demostraci�n de segundo aporte
 La ca�da de las acciones de empresas tecnol�gicas, tambi�n conocido como crisis de la burbuja puntocom, es un fen�meno que reconoce como causas principales las siguientes:
