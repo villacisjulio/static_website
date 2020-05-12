@@ -22,3 +22,6 @@ El otro factor fundamental que explica la caída es inherente al funcionamiento d
 La existencia de una sobrevaluación de ciertas acciones de empresas tecnológicas alimentada con fines especulativos.
 De todos modos, hoy podemos ver un resurgir de estas políticas de empresas puntocoms, pero con ideales empresariales mucho más organizados y no como pequeñas mega empresas que aparecen y desaparecen del mercado en un abrir y cerrar de ojos.
 
+
+Nueva prueba de cambios
+Veamos que sucede ya tengo que irme a dormir
